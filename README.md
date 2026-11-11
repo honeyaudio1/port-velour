@@ -2,7 +2,9 @@
 
 An open-world crime game set in a harbor city at night. It runs in the browser from a single HTML file.
 
-Open `port-velour.html` in a browser to play. It loads three.js from a CDN, so it needs an internet connection.
+**Play it here:** https://honeyaudio1.github.io/port-velour/
+
+Or open `port-velour.html` in a browser. It loads three.js from a CDN, so it needs an internet connection.
 
 ## Features
 
